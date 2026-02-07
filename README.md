@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dominic Waugh. I am a sophmore at Wake Forest University.
+- 👋 Hi, I’m Dominic Waugh. I am a junior at Wake Forest University.
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Computer Science Principles
+- 🌱 I’m currently learning Computer Security and Software Design
 - 📫 How to reach me dominicwaugh12@gmail.com
 
 <!---
